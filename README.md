@@ -1,7 +1,7 @@
 Like Names FB Fanpage
 ===================
 
-Export the names of likers in a fanpage who is you a administrator.
+Export names of likers a fanpage that you are administrator.
 
 Instalation
 -----------
