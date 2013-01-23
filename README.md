@@ -15,10 +15,12 @@ Usage
 
 You will need pass for the script your email and password of facebook account and the ID of fanpage.
 The execution of script looks like this:
+
     $ casperjs like-name.js --email=your@email.com --pass=yourpass --page-id=999999999999
 
 
 To export results into a text file you can run like these:
+
     $ casperjs like-name.js --email=your@email.com --pass=yourpass --page-id=999999999999 >> likers.txt
 
 
